@@ -1,0 +1,6 @@
+{
+  "name": "DocFetcher",
+  "description": "Android document search engine supporting TXT, PDF, DOCX, Markdown, and full-text indexed search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
